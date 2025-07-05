@@ -17,7 +17,7 @@ This project analyzes 119,390 hotel bookings using structured SQL queries and Py
 - Avg. revenue loss from cancellations: Resort – €145.84, City – €137.21
   
  ## 📁 Files
- - [View Project Summary (PDF)](/Users/bathulasushma/Downloads/Project_ppt.pdf)
+ - [Hotel_Bookings(PDF)](/Users/bathulasushma/Downloads/Project_ppt.pdf)
   
 
 ## 📎 Dataset
