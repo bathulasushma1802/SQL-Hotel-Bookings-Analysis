@@ -15,6 +15,10 @@ This project analyzes 119,390 hotel bookings using structured SQL queries and Py
 - Cancellations: 44,224 (~37%)
 - Highest revenue month: August 2017 (€1.97M)
 - Avg. revenue loss from cancellations: Resort – €145.84, City – €137.21
+  
+ ## 📁 Files
+ - `/Users/bathulasushma/Downloads/Project_ppt.pdf' - Hotel-Bookings ppt
+  
 
 ## 📎 Dataset
 [Hotel Booking Demand on Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
